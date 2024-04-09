@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="GearVNTest">
+    <test name="GearVNLoginTest">
+        <classes>
+            <class name="testCase.GearVNLoginTest"/>
+        </classes>
+    </test>
+    <!--<test name="GearVNLogoutTest">
+        <classes>
+            <class name="testCase.GearVNLogoutTest"/>
+        </classes>
+    </test>
+    <test name="GearVNResgisterTest">
+        <classes>
+            <class name="testCase.GearVNResgisterTest"/>
+        </classes>
+    </test>-->
+    <test name="GearVNSearchTest">
+        <classes>
+            <class name="testCase.GearVNSearchTest"/>
+        </classes>
+    </test>
+</suite>
